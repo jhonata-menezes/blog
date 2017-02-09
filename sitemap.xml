@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jhonata-menezes.github.io/about/</loc>
+    <loc>https://jhonata-menezes.github.io/blog/about/</loc>
     <lastmod>2017-02-09T12:40:33-02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jhonata-menezes.github.io/</loc>
+    <loc>https://jhonata-menezes.github.io/blog/</loc>
     <lastmod>2017-02-09T12:40:33-02:00</lastmod>
     <priority>0</priority>
   </url>
