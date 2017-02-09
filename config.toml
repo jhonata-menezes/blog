@@ -1,5 +1,5 @@
 title = "Jhonata Menezes"
-baseURL  = "https://jhonata-menezes.github.io/"
+baseURL  = "https://jhonata-menezes.github.io/blog"
 theme = "cocoa"
 languageCode = "en-us"
 buildDrafts = false
