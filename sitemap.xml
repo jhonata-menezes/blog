@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jhonata-menezes.github.io/blog/about/</loc>
+    <loc>https://blog.jhonatamenezes.com.br/blog/projeto-kartolafc/</loc>
+    <lastmod>2018-05-27T14:46:16-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.jhonatamenezes.com.br/about/</loc>
     <lastmod>2017-02-09T12:40:33-02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jhonata-menezes.github.io/blog/</loc>
-    <lastmod>2017-02-09T12:40:33-02:00</lastmod>
+    <loc>https://blog.jhonatamenezes.com.br/</loc>
+    <lastmod>2018-05-27T14:46:16-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jhonatamenezes.com.br/blog/</loc>
+    <lastmod>2018-05-27T14:46:16-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jhonatamenezes.com.br/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jhonatamenezes.com.br/tags/</loc>
     <priority>0</priority>
   </url>
   

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog do Jhow</title>
-    <link>https://blog.jhonatamenezes.com.br/</link>
-    <description>Recent content on Blog do Jhow</description>
+    <title>Blogs on Blog do Jhow</title>
+    <link>https://blog.jhonatamenezes.com.br/blog/</link>
+    <description>Recent content in Blogs on Blog do Jhow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 27 May 2018 14:46:16 -0300</lastBuildDate>
     
-	<atom:link href="https://blog.jhonatamenezes.com.br/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.jhonatamenezes.com.br/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>https://blog.jhonatamenezes.com.br/blog/projeto-kartolafc/</guid>
       <description>De onde surgiu a idéia Comecei a jogar o cartolafc em 2016, porém no app e website as funções eram muito limitadas, como estava no meio da temporada deixei para iniciar o projeto em 2017
 O que fazer No início não sabia o que realmente fazer, então entre colegas colhi as principais necessidades, visualizar a pontuação enquanto o mercado está fechado, obter mais dados dos times na liga. Então logo iniciei o projeto para ter o resultado o mais rápido possivel, mas tinha um problema, eu precisava que a api do cartolafc estivesse disponivel, aguardei até a primeira rodada iniciar e enquanto não iniciava decidia qual stack utilizar, optei por: Golang, MongoDB e VueJS somente versão web.</description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>https://blog.jhonatamenezes.com.br/about/</link>
-      <pubDate>Thu, 09 Feb 2017 12:40:33 -0200</pubDate>
-      
-      <guid>https://blog.jhonatamenezes.com.br/about/</guid>
-      <description>Meu nome é Jhonata Menezes, formado em ciências da computação em 2015 trabalho com programação e tecnologia no meu dia a dia.</description>
     </item>
     
   </channel>
