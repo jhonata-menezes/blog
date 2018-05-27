@@ -1,11 +1,13 @@
-title = "Jhonata Menezes"
-baseURL  = "https://jhonata-menezes.github.io/blog"
+baseURL  = "https://blog.jhonatamenezes.com.br/"
 theme = "cocoa"
-languageCode = "en-us"
+languageCode = "pt-br"
 buildDrafts = false
 publishdir = "public"
 author = "Jhonata Menezes dos Santos"
+title = "Blog do Jhow"
 canonifyURLs = true
+googleAnalytics = "UA-87718763-5"
+disqusshortname = "blogdojhow"
 
 
 [params]
@@ -21,3 +23,6 @@ github = "https://github.com/jhonata-menezes/"
 email = "jhonatamenezes10@gmail.com"
 linkedin = "https://www.linkedin.com/in/jhonata-santos-a3659011a/"
 twitter = ""
+author = "Jhonata Menezes dos Santos"
+avatar = "img/avatar.jpeg"
+
