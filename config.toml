@@ -7,7 +7,7 @@ author = "Jhonata Menezes dos Santos"
 title = "Blog do Jhow"
 canonifyURLs = true
 googleAnalytics = "UA-87718763-5"
-disqusshortname = "blogdojhow"
+disqusshortname = "blog-do-jhow"
 
 
 [params]
