@@ -1,0 +1,4 @@
+[build]
+  base    = ""
+  publish = "public"
+  command = "git clone https://github.com/nishanths/cocoa-hugo-theme.git themes/cocoa && hugo"
