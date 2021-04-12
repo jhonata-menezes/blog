@@ -1,4 +1,4 @@
-baseURL  = "https://blog.jhonatamenezes.com.br/"
+#baseURL  = "https://blog.jhonatamenezes.com.br/"
 theme = "cocoa"
 languageCode = "pt-br"
 buildDrafts = false
@@ -25,4 +25,3 @@ linkedin = "https://www.linkedin.com/in/jhonata-santos-a3659011a/"
 twitter = ""
 author = "Jhonata Menezes dos Santos"
 avatar = "img/avatar.jpeg"
-
